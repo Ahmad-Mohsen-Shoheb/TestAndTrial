@@ -8,3 +8,6 @@ main: Adding notes to make a 2nd commit and push on main branch.
 
 main: this is a 3rd commit, after this commit I'm gonna rebase branchA to start from
 	2nd commit, which means that branch A will have second commit changes added to it
+
+
+main: making a 4th commit
