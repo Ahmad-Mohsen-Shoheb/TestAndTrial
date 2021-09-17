@@ -1,1 +1,4 @@
 Notes part 1 added to branch A
+
+
+testing: adding notes in branch A after rebasing to see changes on Gui
