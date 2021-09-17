@@ -1,1 +1,6 @@
 this is a note made on the Main branch.
+
+
+
+Adding notes to make a 2nd commit and push on main branch.
+No rebase nor merge is done yet from any branch into main branch
