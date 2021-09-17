@@ -1,1 +1,4 @@
 This is branch B writing its first commit
+
+
+Branch B is now writing, after a rebase is done
