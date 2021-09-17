@@ -13,3 +13,5 @@ main: this is a 3rd commit, after this commit I'm gonna rebase branchA to start 
 main: making a 4th commit
 
 main: making 5th commit
+
+main: now I'm editing a new (6th) commit on main branch
